@@ -1,0 +1,6 @@
+feed:
+    url: https://revistaautoesporte.globo.com/rss/ultimas/feed.xml
+    one-item-feed: classpath:/xmlTest/oneItemFeed.xml
+    list-item-feed: classpath:/xmlTest/listItemFeed.xml
+    null-feed: classpath:/xmlTest/nullFeed.xml
+    invalid-url: https://invalid.url/rss/ultimas/feed.xml

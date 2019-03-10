@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: crawler
+  main:
+    banner-mode: "off"
+
+feed:
+  url: https://revistaautoesporte.globo.com/rss/ultimas/feed.xml
+
+management.endpoints.web.exposure.include: "*"
